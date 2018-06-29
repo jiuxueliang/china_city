@@ -1,3 +1,3 @@
-appraise "rails4" do
-  gem "rails", "~> 4.0.0"
+appraise "rails31" do
+  gem "rails", "~> 3.1.0"
 end
